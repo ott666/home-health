@@ -1,0 +1,73 @@
+[
+    {
+        "id": "0",
+        "pseudo": "acompanhamento",
+        "title":"Acompanhamento hospitalar",
+        "p1s": [
+            "O serviço de acompanhamento hospitalar oferece maior segurança e tranquilidade ao paciente internado e seus familiares, já que conta com profissionais de enfermagem treinados e supervisionados pelas enfermeiras do Home Health Ribeirão, visando ser o elo entre equipe de enfermagem do hospital e família.",
+            "Além de proporcionar segurança e tranquilidade, o serviço de acompanhamento hospitalar desempenha um papel fundamental na comunicação e coordenação do cuidado. Os profissionais de enfermagem dedicados a esse serviço atuam como intermediários entre a equipe médica e os familiares do paciente, garantindo que as informações sobre o estado de saúde, tratamentos e procedimentos sejam devidamente compartilhadas"
+        ],
+        "uls": [
+            {
+                "id": "Beneficios",
+                "lis": [
+                    "Segurança de que a parte mais complexa do atendimento ficará a cargo de um profissional habilitado em primeiros socorros",
+                    "Tranquilidade para que a família possa assumir seus afazeres normais do dia-a-dia, sabendo que o paciente está sobre os cuidados de um profissional",
+                    "Diminuição das internações e dos custos hospitalares",
+                    "Profissionalismo no cuidado ao paciente",
+                    "Redução dos riscos de infecção hospitalar",
+                    "Atendimento ao paciente no núcleo familiar",
+                    "Melhoria da qualidade de vida do paciente e seus familiares",
+                    "Diminuição do risco de quedas",
+                    "Garantia de uso correto das medicações",
+                    "Acompanhamento dos sinais vitais, diabetes, pressão alta etc",
+                    "Outros serviços podem ser acordados com o contratante"
+                ]
+            },
+            {
+                "id": "Alimentação",
+                "lis": [
+                    "Preparo das refeições",
+                    "Auxílio na alimentação",
+                    "Organização e limpeza dos ambientes do idoso",
+                    "Manutenção de roupas e itens pessoais"
+                ]
+            },
+            {
+                "id": "Bem estar",
+                "lis": [
+                    "Organizar consultas e exames",
+                    "Eventos sociais",
+                    "Atividades de lazer"
+                ]
+            }
+            
+        ]
+    },
+
+
+    {
+        "id": "1",
+        "pseudo": "consulta-medica-domiciliar",
+        "title":"Consulta médica domiciliar",
+        "p1s": [
+             "Procuramos antecipar os problemas de saúde dos pacientes para, assim, reduzir a necessidade de internação domiciliar ou hospitalar. Por telefone ou presencialmente, nossos médicos acompanham pacientes com problemas crônicos, clinicos gerais, hipertensão e diabetes, doenças respiratórias, doenças renais, entre outros.",
+             "Esse serviço de acompanhamento médico é essencial para melhorar a qualidade de vida dos pacientes e evitar a progressão de doenças crônicas. Através da supervisão diária de enfermeiros, é possível monitorar de perto os sinais vitais, a adesão aos tratamentos prescritos e quaisquer mudanças no estado de saúde dos pacientes. Com isso, é possível identificar precocemente possíveis complicações ou alterações que exijam intervenção médica imediata, reduzindo a necessidade de internações hospitalares ou domiciliares."
+        ],
+        "uls": [
+            {
+                "id": "Beneficios",
+                "lis": [
+                    "Reduz a tendência de abandono do tratamento por falta de acompanhamento e incentivo",
+                    "Melhora consideravelmente a saúde do indivíduo, pois ajuda a preservar e estabilizar a condição de saúde do paciente",   
+                    "Rápida identificação de reações ou complicações",                  
+                    "Acompanhamento do quadro clínico do paciente",                
+                    "Prescrição e controle de medicamentos",                  
+                    "Contato de emergência em caso de complicações",                
+                    "Outros serviços podem ser acordados com o contratante como acompanhamento em consultas, curativos etc"
+                ]
+            }
+        ]
+    }
+]
+
