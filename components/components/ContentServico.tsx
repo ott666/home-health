@@ -20,7 +20,7 @@ export default function ContentServico(props:any){
            
             `}>
                 <Image className='rounded-2xl'
-                src={'/services/acompanhamento/img1.jpg'} width={1000} height={1000}
+                src={`/services/${servico.pastaFotos}/img1.png`} width={1000} height={1000}
                  alt='bg'/>
                 
             </div>
@@ -29,8 +29,8 @@ export default function ContentServico(props:any){
             
             `}>
            <h1 className={'text-3xl font-bold bg-pink-600 py-5 rounded-2xl text-center mb-2'}>{servico.title}</h1>
-            {servico.p1s.map((element:any)=>(
-                <p className={`text-xl text-justify text-black`}>{element}</p>
+            {servico.p1s.map((element:any, i:number)=>(
+                <p key={`{p1-${servico.pseudo}-${i}}`} className={`text-xl text-justify text-black`}>{element}</p>
             ))}
             </div>
 
@@ -38,12 +38,12 @@ export default function ContentServico(props:any){
         <div id='wrap_Row2' className={`
         flex flex-col xl:flex-row xl:justify-between
         `}>
-        <div id='esquerda2'className={'flex flex-col gap-y-5'}>
+        <div id='esquerda2'className={'flex flex-col w-full gap-y-5'}>
             {servico.uls.map((ul:any)=>(
-                <div className='bg-pink-300 rounded-3xl'>
-                    <ul className='text-black flex flex-col text-2xl py-2 px-2 '>{ul.id}
-                        {ul.lis.map((li:any)=>(
-                            <li className='text-xl list-disc ml-5'>{li}</li>
+                <div key={ul.id} className='bg-pink-300 rounded-3xl'>
+                    <ul  className='text-black flex flex-col text-2xl py-2 px-2 '>{ul.id}
+                        {ul.lis.map((li:any, i:number)=>(
+                            <li key={`li-${li.id}-${i}`} className='text-xl list-disc ml-5'>{li}</li>
                         ))}
                         </ul>
                 </div>

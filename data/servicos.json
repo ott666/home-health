@@ -2,7 +2,12 @@
     {
         "id": "0",
         "pseudo": "acompanhamento",
+        "textCard":"Profissionais qualificados e de confiança, para substituir um familiar no momento de internação ou tratamento.",
+        "pastaFotos":"acompanhamento",
         "title":"Acompanhamento hospitalar",
+        "ctaBg":"img3.png",
+        "ctaTitle":"Segurança e Tranquilidade no Hospital",
+        "ctaTexto":"Cuidado profissional, comunicação constante. Garanta segurança para o paciente e tranquilidade para a família com nossa equipe especializada",
         "p1s": [
             "O serviço de acompanhamento hospitalar oferece maior segurança e tranquilidade ao paciente internado e seus familiares, já que conta com profissionais de enfermagem treinados e supervisionados pelas enfermeiras do Home Health Ribeirão, visando ser o elo entre equipe de enfermagem do hospital e família.",
             "Além de proporcionar segurança e tranquilidade, o serviço de acompanhamento hospitalar desempenha um papel fundamental na comunicação e coordenação do cuidado. Os profissionais de enfermagem dedicados a esse serviço atuam como intermediários entre a equipe médica e os familiares do paciente, garantindo que as informações sobre o estado de saúde, tratamentos e procedimentos sejam devidamente compartilhadas"
@@ -49,7 +54,12 @@
     {
         "id": "1",
         "pseudo": "consulta-medica-domiciliar",
+        "textCard":"É um serviço de saúde personalizado e conveniente, onde o paciente recebe atendimento médico diretamente em seu lar",
+        "pastaFotos":"consulta",
         "title":"Consulta médica domiciliar",
+        "ctaBg":"img3.png",
+        "ctaTitle":"Atenção Médica em Casa",
+        "ctaTexto":"Nossos médicos especializados oferecem cuidados personalizados no conforto do lar. Evite hospitalizações com acompanhamento atento para condições como diabetes, hipertensão e doenças respiratórias.",
         "p1s": [
              "Procuramos antecipar os problemas de saúde dos pacientes para, assim, reduzir a necessidade de internação domiciliar ou hospitalar. Por telefone ou presencialmente, nossos médicos acompanham pacientes com problemas crônicos, clinicos gerais, hipertensão e diabetes, doenças respiratórias, doenças renais, entre outros.",
              "Esse serviço de acompanhamento médico é essencial para melhorar a qualidade de vida dos pacientes e evitar a progressão de doenças crônicas. Através da supervisão diária de enfermeiros, é possível monitorar de perto os sinais vitais, a adesão aos tratamentos prescritos e quaisquer mudanças no estado de saúde dos pacientes. Com isso, é possível identificar precocemente possíveis complicações ou alterações que exijam intervenção médica imediata, reduzindo a necessidade de internações hospitalares ou domiciliares."
@@ -68,6 +78,285 @@
                 ]
             }
         ]
+    },
+
+    {
+        "id": "2",
+        "pseudo": "internacao-domiciliar",
+        "textCard":"Home Care leva os serviços do hospital para a casa do paciente com equipe especializada",
+        "pastaFotos":"internacao",
+        "title":"Internação Domiciliar HOME CARE",
+        "ctaBg":"img3.png",
+        "ctaTitle":"",
+        "ctaTexto":"",
+        "p1s": [
+            "A internação domiciliar leva os serviços do hospital para a casa do paciente. Com uma estrutura de enfermagem disponível desde um banho até 24 horas por dia, junto com uma equipe multidisciplinar, essa modalidade de atendimento oferece, além do cuidado assistencial, atividades sociais e de lazer, dentro do que o quadro do paciente permite.",
+            "A Home & Health Care avalia o paciente, elabora o plano de atendimento respeitando as necessidades únicas e estilo de vida da família e de cada indivíduo, indicando profissionais treinados que cuidam do controle de medicamentos, higiene, curativo, alimentação e todas as necessidades envolvidas na rotina do paciente.",
+            "Adicionalmente, a equipe coordena os serviços com os médicos, hospitais, clínicas e laboratórios e monitora o paciente para garantir sua saúde",
+            "Nossas equipes são formadas por enfermeiro responsável técnico, técnicos e auxiliares de enfermagem, fisioterapeutas, fonoaudiólogos, psicólogos e cuidadores de idosos. Todos têm o direcionamento de seguir o protocolo exigido pelo médico, pelo tempo que o mesmo necessitar.",
+            "A internação domiciliar respeita toda a legislação vigente e garante que particularidades, como o uso de medicamentos restritos, sejam atendidas"
+        ],
+        "uls": [
+            {
+                "id": "Beneficios",
+                "lis": [
+                    "Atendimento Personalizado",
+                    "Continuidade do tratamento hospitalar, trazendo pessoas especializadas do hospital para a casa do paciente",   
+                    "Tranquilidade do paciente por estar perto de seus familiares",                  
+                    "Redução do stress relacionado à tensão e ao desconforto do ambiente hospitalar",                
+                    "Menor exposição do paciente à infecção hospitalar",                  
+                    "Redução de intercorrências como úlcera por pressão (lesões na pele), desnutrição e quedas"             
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "pseudo": "cuidadores-de-idosos",
+        "textCard":"Destinado a pessoas que necessitam de auxílio nos cuidados diários.",
+        "pastaFotos":"cuidadores",
+        "title":"Cuidadores de Idosos",
+        "ctaBg":"img3.png",
+        "ctaTitle":"",
+        "ctaTexto":"",
+        "p1s": [
+            "Destinado a pessoas que necessitam de auxílio nos cuidados diários, A Home & Heath Care disponibiliza à família, um profissional cuidador, que será o responsável pelos cuidados e terá a supervisão semanal de uma enfermeira responsável, conforme a necessidade do cliente e família, com atendimentos personalizados desde auxilio ao banho e medicamentos, 6 horas, 8 horas diurnas assim como 12 horas dia e noite e 24 horas.",
+            "Nossos cuidadores são preparados e capacitados para promover o bem-estar, qualidade de vida e conforto ao idoso e sua família, auxiliando nos cuidados e atividades diárias, como:"
+        ],
+        "uls": [
+            {
+                "id": "Higiene",
+                "lis": [
+                    "Banhos",
+                    "Cuidados com a higiene",   
+                    "Controle de medicação"             
+                ]
+            },
+            {
+                "id": "Alimentação",
+                "lis": [
+                    "Preparo das refeições",
+                    "Auxílio na alimentação",   
+                    "Organização e limpeza dos ambientes do idoso",
+                    "Manutenção de roupas e itens pessoais"             
+                ]
+            },
+            {
+                "id": "Bem estar",
+                "lis": [
+                    "Organizar consultas e exames",
+                    "Eventos sociais",   
+                    "Atividades de lazer"             
+                ]
+            },
+            {
+                "id": "Benefícios",
+                "lis": [
+                    "Diminuição das internações e dos custos hospitalares",
+                    "Profissionalismo no cuidado ao paciente",
+                    "Redução dos riscos de infecção hospitalar",
+                    "Atendimento ao paciente no núcleo familiar",
+                    "Melhoria da qualidade de vida do paciente e seus familiares",
+                    "Segurança de que a parte mais complexa do atendimento ficará a cargo de um profissional habilitado em primeiros socorros",
+                    "Tranquilidade para que a família possa assumir seus afazeres normais do dia-a-dia, sabendo que o paciente está sobre os cuidados de um profissional",
+                    "Diminuição do risco de quedas",
+                    "Garantia de uso correto das medicações",
+                    "Acompanhamento dos sinais vitais, diabetes, pressão alta etc",
+                    "Outros serviços podem ser acordados com o contratante"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "pseudo": "nutricionista-domiciliar",
+        "textCard":"Segurança e expertise do Nutricionista no conforto do seu lar.",
+        "pastaFotos":"nutricionista",
+        "title":"Nutricionista Domiciliar",
+        "ctaBg":"img3.png",
+        "ctaTitle":"",
+        "ctaTexto":"",
+        "p1s": [
+            "Está cada vez mais comum o nutricionista atender os clientes em casa, seja pela comodidade e atendimento diferenciado ou por ser uma ótima alternativa para pessoas que precisam de um tratamento ou acompanhamento nutricional, mas estão debilitadas e com movimentos restringidos. O nutricionista que oferece atendimento domiciliar é responsável pela elaboração de uma dieta equilibrada e que considere as necessidades nutricionais de cada pessoa.",
+            "O atendimento domiciliar proporciona uma abordagem personalizada, permitindo que o nutricionista avalie o ambiente alimentar e os hábitos do cliente de forma mais precisa. Além disso, a possibilidade de adaptar a dieta às circunstâncias da casa do paciente pode aumentar a adesão ao plano alimentar e promover mudanças duradouras nos hábitos alimentares"
+        ],
+        "uls": [
+            {
+                "id": "Beneficios",
+                "lis": [
+                   " Potencial para melhorar resultados em casos específicos, como recuperação pós-operatória ou doenças debilitantes",
+                   " Promoção de mudanças de hábitos alimentares mais eficazes",
+                   " Adaptação da dieta às condições de mobilidade reduzida",
+                   " Monitoramento mais próximo da evolução nutricional",
+                   " Adequação da dieta às restrições e preferências do paciente",
+                   " Possibilidade de envolver a família nas mudanças alimentares",
+                   " Maior adesão ao tratamento nutricional",
+                   " Avaliação do ambiente alimentar do cliente",
+                   " Atendimento individualizado e focado nas necessidades específicas",
+                   " Conveniência e conforto para o cliente"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "pseudo": "terapias",
+        "textCard":"Fisioterapias e Terapias Ocupacionais em casa fornecem tratamentos especializados no lar, atendendo pacientes com mobilidade reduzida.",
+        "pastaFotos":"terapias",
+        "title":"Terapias",
+        "ctaBg":"img3.png",
+        "ctaTitle":"",
+        "ctaTexto":"",
+        "p1s": [
+           "As terapias têm o objetivo de restaurar ou melhorar as condições físicas e psicológicas do paciente. Nossa equipe multidisciplinar está preparada para atender às prescrições terapêuticas em sua casa e acompanhar em detalhes seus progressos e suas necessidades. O objetivo do serviço é que o paciente mantenha uma vida ativa e independente.",
+           "Essa modalidade de atendimento pode ajudar em circunstâncias como perda do equilibrio, dificuldade de locomoção, questões de segurança, controle da dor, reaprendizado de atividades físicas, incontinência, desenvolvimento cognitivo, dificuldades para realizar as atividades de vida diária, entre outros."
+        ],
+        "uls": [
+            {
+                "id": "Beneficios",
+                "lis": [
+                   " Acompanhamento exclusivo para cada paciente integrando as sessões de terapia à rotina do paciente no conforto de sua casa.",
+                   " Atendimento individualizado e focado nas necessidades específicas",
+                   " Conveniência e conforto para o cliente"
+                ]
+            },
+            {
+                "id": "Terapias Físicas",
+                "lis": [
+                    "Restauram as funções em indivíduos com disfunções neuromusculares ou esqueléticas e incluem exercícios para recuperação de estabilidade, mobilidade e postura.",
+                    "Aumento da função muscular, coordenação e resistência prevenindo doenças e lesões decorrentes de fraturas ou vícios de postura",
+                    "Técnicas e exercícios que restauram a capacidade de articulações e músculos para aumentar a amplitude de movimento",
+                    "Além disso, os serviços incluem cuidados com ferimentos e controle da dor",
+                    "Exercícios respiratórios"
+                ]
+            },
+            {
+                "id": "Fonoterapia",
+                "lis": [
+                    "Trata de problemas de fala, linguagem e deglutição. Recuperação da fala, linguagem e memória.",
+                    "Comunicação verbal e não-verbal, incluindo programas para quem está perdendo a audição",
+                    "Fortalecimento dos músculos orais e funções requeridas para fala e deglutição",
+                    "Recomendações de dieta para amenizar essas dificuldades",
+                    "Outros serviços podem ser acordados com o contratante"
+                ]
+            },
+            {
+                "id": "Terapias Ocupacionais",
+                "lis": [
+                    "Ajudam os indivíduos a se adaptar a seu ambiente físico e social aumentando a funcionalidade do paciente nas tarefas",
+                    "Treinamento em atividades como vestir, tomar banho, comer e se arrumar",
+                    "Exercícios para a memória, orientação e integração cognitiva",
+                    "Técnicas adaptativas para superar deficiências físicas",
+                    "Exercícios de força e coordenação",
+                    "Exercícios para manter os movimentos das articulações"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "pseudo": "coleta-de-exames",
+        "textCard":"Estes procedimentos em casa trazem conveniência aos pacientes, nós vamos até você",
+        "pastaFotos":"procedimento",
+        "title":"Procedimentos, Medicação e Coleta de Exames",
+        "ctaBg":"img3.png",
+        "ctaTitle":"",
+        "ctaTexto":"",
+        "p1s": [
+          "Nem sempre é preciso ir ao hospital para atender à prescrição de seu médico. Com profissionais preparados e materiais adequados, a equipe da Home Health Care realiza uma vasta gama de procedimentos em sua residência com segurança.",
+          "Esses cuidados ficam a cargo de técnicos de enfermagem e enfermeiros especializados, em áreas como: estomaterapia, gastrostomia, passagem de cateteres intravenosos (PICC), pediatria, geriatria, ortopedia, cuidados respiratórios e reabilitação, medicações diversas e coletas de exames."
+        ],
+        "uls": [
+            {
+                "id": "Beneficios",
+                "lis": [
+                    "Menos visitas ao hospital",
+                    "Menos exposição ao risco de infecção hospitalar",
+                    "Mais conforto na realização de procedimentos minimamente invasivos, que possam ser realizados na casa do paciente"
+                ]
+            },
+            {
+                "id": "Terapias Físicas",
+                "lis": [
+                    "Curativos",
+                    "Administração de medicamentos por via intravenosa, intramuscular e subcutânea",
+                    "Coletas de exames",
+                    "Punção",
+                    "Nutrição enteral e parenteral",
+                    "Retirada de fecaloma",
+                    "Estomaterapia",
+                    "Lavagem intestinal",
+                    "Passagem de sonda vesical de demora e de alívio",
+                    "Cuidados específicos para pacientes de pediatria, ortopedia, geriatria e doenças respiratórias",
+                    "Outros serviços podem ser acordados com o contratante"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "pseudo": "locacao-e-venda-de-equipamentos",
+        "textCard":"Atendendo às necessidades de pacientes de diversas áreas. Com um amplo catálogo de equipamentos de alta qualidade.",
+        "pastaFotos":"locacao",
+        "title":"Locação e Venda de Equipamentos",
+        "ctaBg":"img3.png",
+        "ctaTitle":"",
+        "ctaTexto":"",
+        "p1s": [
+            "Facilitamos a locação e venda de equipamentos hospitalares essenciais para atender às suas necessidades de cuidados de saúde em casa. Oferecemos uma variedade de opções, desde cadeiras de rodas e camas hospitalares até oxímetros e aparelhos de pressão. Nossa ampla seleção garante que você encontre os equipamentos adequados para promover o conforto e o bem-estar.",
+            "Explore nossa gama de equipamentos médicos projetados para melhorar a mobilidade e a qualidade de vida. Seja para recuperação pós-operatória, cuidados prolongados ou assistência a pacientes idosos, temos cadeiras de banho, andadores, aspiradores e muito mais. Conte conosco para fornecer soluções práticas e confiáveis, permitindo que você cuide da saúde no ambiente familiar."
+        ],
+        "uls": [
+            {
+                "id": "Equipamentos",
+                "lis": [
+                    "Cadeira de Rodas",
+                    "Cadeira de Banho",
+                    "Andador",
+                    "Cama Hospitalar",
+                    "Aspirador",
+                    "Oxímetro",
+                    "Aparelhos de Pressão",
+                    "Termometros"
+                ]
+            }
+            
+            
+        ]
+    },
+
+    {
+        "id": "8",
+        "pseudo": "doencas-degenerativas",
+        "textCard":"Montamos uma equipe multidisciplinar com experiências no tratamento e cuidados das mais diversas doenças",
+        "pastaFotos":"degen",
+        "title":"Doenças Degenerativas",
+        "ctaBg":"img3.png",
+        "ctaTitle":"",
+        "ctaTexto":"",
+        "p1s": [
+           " As doenças degenerativas são aquelas que comprometem as funções vitais do indivíduo em caráter irreversível e crescente. Elas recebem esse nome porque causam a degeneração de células, tecidos e órgãos. Atualmente, não há cura e nem tratamento específico para essas doenças. O uso de medicamentos alivia os sintomas da doença e proporciona melhores condições de vida aos doentes.",
+           " Pensando nisso montamos uma equipe multidisciplinar com experiências no tratamento e cuidados das mais diversas doenças como:"
+        ],
+        "uls": [
+            {
+                "id": "",
+                "lis": [
+                    "Doença de Alzheimer",
+                    "Distrofia Muscular de Duchenne e Distrofia Muscular de Becker",
+                    "Distrofia Muscular;",
+                    "Esclerose Lateral Amiotrófica (ELA);",
+                    "Esclerose Múltipla;",
+                    "Doença de Parkinson;",
+                    "Diabetes",
+                    "Hipertensão",
+                    "Câncer"
+                ]
+            }
+            
+            
+        ]
     }
+    
 ]
 

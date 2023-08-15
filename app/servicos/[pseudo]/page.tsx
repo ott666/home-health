@@ -1,7 +1,6 @@
 'use client'
 import React from 'react'
 import Container from '@/components/components/Container'
-import Image from 'next/image'
 import Servicos from '@/data/servicos.json'
 import ContentServico from '@/components/components/ContentServico'
 
