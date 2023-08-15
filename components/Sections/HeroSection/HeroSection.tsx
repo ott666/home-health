@@ -44,7 +44,7 @@ export default function HeroSection(){
                         <Image style={{objectFit:'contain'}}
                         alt='logo' src={'/logo-hh.png'} fill={true}></Image>
                     </div>
-                    <div className='flex flex-col justify-center gap-5 md:gap-10 items-center h-fit  z-10 md:max-w-[700px] xl:max-w-[800px] px-5 xl:px-0'>
+                    <div className='flex flex-col justify-center gap-5 md:gap-10 items-center h-fit  z-10 md:max-w-[700px] xl:max-w-[800px] py-2 px-5 xl:px-0'>
                         <h1 className={`
                         text-white
                          text-center 
@@ -53,9 +53,9 @@ export default function HeroSection(){
                         <p className='text-center text-lg sm:text-2xl md:text-2xl 3xl:text-3xl font-bolder  '>Os cuidados que você precisa no lugar que você deseja. Descubra a diferença que a Home Health Ribeirão faz na vida de quem você ama.</p>
                         <div className='flex flex-col sm:flex-row w-full justify-between gap-3 items-center'>
                         <Link className={`
-                        text-xl sm:text-3xl font-bold bg-pink-300 w-[80%] md:w-[45%] text-center py-3 rounded-3xl`} href={'/servicos'}>Serviços</Link>
+                        text-xl sm:text-3xl font-bold bg-pink-300 w-[80%] md:w-[45%] text-center py-1 lg:py-3 rounded-3xl`} href={'/servicos'}>Serviços</Link>
                         <Link className={`
-                        text-xl sm:text-3xl font-bold bg-pink-300 w-[80%] md:w-[45%] text-center py-3 rounded-3xl`} href={'/servicos'}>Contato</Link>
+                        text-xl sm:text-3xl font-bold bg-pink-300 w-[80%] md:w-[45%] text-center py-1 lg:py-3 rounded-3xl`} href={'/servicos'}>Contato</Link>
                         </div>
                        
                     </div>
