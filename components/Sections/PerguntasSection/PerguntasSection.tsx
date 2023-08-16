@@ -18,7 +18,7 @@ export default function PerguntasSection(){
             w-full
             `}>
                 {Perguntas.map((pergunta)=>(
-                    <div className="w-full lg:w-[48%]">
+                    <div key={pergunta.id} className="w-full lg:w-[48%]">
                     <CardPergunta pergunta={pergunta}/>
                     </div>
                 ))}

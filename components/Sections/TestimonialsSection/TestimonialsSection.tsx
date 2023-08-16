@@ -1,6 +1,5 @@
 import React from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react';
-import Testimonials from '@/components/components/Testimonials';
 import TestimonialsData from '@/data/testimonials.json'
 import Container from '@/components/components/Container';
 import Image from 'next/image';
@@ -15,7 +14,7 @@ export default function TestimonialsSection(){
         flex justify-center items-center
         `}>
             {TestimonialsData.map((testimonial)=>(
-                <SwiperSlide className='text-white  w-full h-full  relative'>
+                <SwiperSlide key={testimonial.id} className='text-white  w-full h-full  relative'>
                    <div className='w-full h-full relative bg-black/30 z-2'>
                     <Image style={{objectFit:'cover', objectPosition:'top', zIndex:'-1'}} src={testimonial.img} fill={true} alt='testimonial'/>
                     

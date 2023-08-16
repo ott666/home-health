@@ -5,7 +5,7 @@ export default function ContatoSection(){
         <section className='flex w-full py-5'>
             <div className={`
             flex flex-col 
-            w-full 
+        w-full 
             items-center 
             justify-center`}>
             <h1 className='text-black text-6xl py-5 font-bold'>Contato</h1>
