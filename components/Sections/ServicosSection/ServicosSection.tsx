@@ -6,22 +6,37 @@ import Link from 'next/link'
 
 export default function ServicosSection(){
     return(
-    <section className='py-5'>
+    <section className='py-5  flex items-center  px-4'>
         <Container>
-            <h1 className='text-center text-4xl  font-bold lg:text-6xl pb-5 text-black'>Nossos serviços</h1>
-            <div className='flex w-full flex-wrap justify-between h-[fit]  py-5 gap-y-7  bg-transparent'>
+            <h1 className='text-center text-[30px]  font-bold lg:text-6xl text-black'>Nossos serviços</h1>
+           <div id='wrap-cards'
+            className={`
+           w-full py-5
+           flex flex-wrap
+           gap-2
+           `}>
             {Servicos.map((servico)=>(
                 
-               <Link href={`/servicos/${servico.pseudo}`} key={servico.id} className='flex gap-2 text-black bg- lg:transparent lg:h-[130px] w-full h-fit lg:w-[33%] ' >
-                <div id='img' className='relative w-[72px] h-[72px] overflow-hidden bg-white flex items-center justify-center rounded-full border-4 border-pink-600'>
-                    <Image src={`/icons/${servico.pseudo}.svg`} alt='img' width={500} height={500}/>
-                </div>
-                <div className='w-[80%] flex flex-col'>
+               <Link href={`/servicos/${servico.pseudo}`} key={servico.id} className={`
+               flex flex-col h-fit bg-cyan-300 rounded-[25px] w-full sm:w-[49%] xl:w-[32%]  sm:h-[170px] md:h-[185px] xl:h-[210px] gap-2 p-[10px]`}  >
+                <div className={`
+                w-full h-fit flex lg:items-center lg:justify-center
+                gap-2`}>
 
-                <h1 className='text-[18px]  pb-3 font-bold'>{servico.title}</h1>
-                <p className='text-sm'>{servico.textCard}</p>
+                    <div id='img' className='relative w-[44px] h-[40px] lg:w-[100px] lg:h-[70px] overflow-hidden bg-white flex items-center justify-center  rounded-full border-2 border-pink-600'>
+                        <Image 
+                        src={`/icons/${servico.pseudo}.svg`} alt='img' width={44} height={44}/>
+                    </div>
+               
+                <h1  className='text-black -tracking-wider w-full text-lg md:text-2xl lg:text-[30px] xl:text-2xl font-semibold'>{servico.title}</h1>
 
                 </div>
+
+                <p className={`
+                text-[15px] md:text-lg text-black
+                `}>{servico.textCard}</p>
+                
+                   
                </Link>
             ))}
             </div>

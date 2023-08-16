@@ -81,36 +81,6 @@
     },
 
     {
-        "id": "2",
-        "pseudo": "internacao-domiciliar",
-        "textCard":"Home Care leva os serviços do hospital para a casa do paciente com equipe especializada",
-        "pastaFotos":"internacao",
-        "title":"Internação Domiciliar HOME CARE",
-        "ctaBg":"img3.png",
-        "ctaTitle":"",
-        "ctaTexto":"",
-        "p1s": [
-            "A internação domiciliar leva os serviços do hospital para a casa do paciente. Com uma estrutura de enfermagem disponível desde um banho até 24 horas por dia, junto com uma equipe multidisciplinar, essa modalidade de atendimento oferece, além do cuidado assistencial, atividades sociais e de lazer, dentro do que o quadro do paciente permite.",
-            "A Home & Health Care avalia o paciente, elabora o plano de atendimento respeitando as necessidades únicas e estilo de vida da família e de cada indivíduo, indicando profissionais treinados que cuidam do controle de medicamentos, higiene, curativo, alimentação e todas as necessidades envolvidas na rotina do paciente.",
-            "Adicionalmente, a equipe coordena os serviços com os médicos, hospitais, clínicas e laboratórios e monitora o paciente para garantir sua saúde",
-            "Nossas equipes são formadas por enfermeiro responsável técnico, técnicos e auxiliares de enfermagem, fisioterapeutas, fonoaudiólogos, psicólogos e cuidadores de idosos. Todos têm o direcionamento de seguir o protocolo exigido pelo médico, pelo tempo que o mesmo necessitar.",
-            "A internação domiciliar respeita toda a legislação vigente e garante que particularidades, como o uso de medicamentos restritos, sejam atendidas"
-        ],
-        "uls": [
-            {
-                "id": "Beneficios",
-                "lis": [
-                    "Atendimento Personalizado",
-                    "Continuidade do tratamento hospitalar, trazendo pessoas especializadas do hospital para a casa do paciente",   
-                    "Tranquilidade do paciente por estar perto de seus familiares",                  
-                    "Redução do stress relacionado à tensão e ao desconforto do ambiente hospitalar",                
-                    "Menor exposição do paciente à infecção hospitalar",                  
-                    "Redução de intercorrências como úlcera por pressão (lesões na pele), desnutrição e quedas"             
-                ]
-            }
-        ]
-    },
-    {
         "id": "3",
         "pseudo": "cuidadores-de-idosos",
         "textCard":"Destinado a pessoas que necessitam de auxílio nos cuidados diários.",
@@ -254,6 +224,38 @@
         ]
     },
     {
+        "id": "8",
+        "pseudo": "doencas-degenerativas",
+        "textCard":"Montamos uma equipe multidisciplinar com experiências no tratamento e cuidados das mais diversas doenças",
+        "pastaFotos":"degen",
+        "title":"Doenças Degenerativas",
+        "ctaBg":"img3.png",
+        "ctaTitle":"",
+        "ctaTexto":"",
+        "p1s": [
+           " As doenças degenerativas são aquelas que comprometem as funções vitais do indivíduo em caráter irreversível e crescente. Elas recebem esse nome porque causam a degeneração de células, tecidos e órgãos. Atualmente, não há cura e nem tratamento específico para essas doenças. O uso de medicamentos alivia os sintomas da doença e proporciona melhores condições de vida aos doentes.",
+           " Pensando nisso montamos uma equipe multidisciplinar com experiências no tratamento e cuidados das mais diversas doenças como:"
+        ],
+        "uls": [
+            {
+                "id": "",
+                "lis": [
+                    "Doença de Alzheimer",
+                    "Distrofia Muscular de Duchenne e Distrofia Muscular de Becker",
+                    "Distrofia Muscular;",
+                    "Esclerose Lateral Amiotrófica (ELA);",
+                    "Esclerose Múltipla;",
+                    "Doença de Parkinson;",
+                    "Diabetes",
+                    "Hipertensão",
+                    "Câncer"
+                ]
+            }
+            
+            
+        ]
+    },
+    {
         "id": "6",
         "pseudo": "coleta-de-exames",
         "textCard":"Estes procedimentos em casa trazem conveniência aos pacientes, nós vamos até você",
@@ -324,37 +326,35 @@
             
         ]
     },
-
+    
     {
-        "id": "8",
-        "pseudo": "doencas-degenerativas",
-        "textCard":"Montamos uma equipe multidisciplinar com experiências no tratamento e cuidados das mais diversas doenças",
-        "pastaFotos":"degen",
-        "title":"Doenças Degenerativas",
+        "id": "2",
+        "pseudo": "internacao-domiciliar",
+        "textCard":"Home Care leva os serviços do hospital para a casa do paciente com equipe especializada",
+        "pastaFotos":"internacao",
+        "title":"Internação Domiciliar HOME CARE",
         "ctaBg":"img3.png",
         "ctaTitle":"",
         "ctaTexto":"",
         "p1s": [
-           " As doenças degenerativas são aquelas que comprometem as funções vitais do indivíduo em caráter irreversível e crescente. Elas recebem esse nome porque causam a degeneração de células, tecidos e órgãos. Atualmente, não há cura e nem tratamento específico para essas doenças. O uso de medicamentos alivia os sintomas da doença e proporciona melhores condições de vida aos doentes.",
-           " Pensando nisso montamos uma equipe multidisciplinar com experiências no tratamento e cuidados das mais diversas doenças como:"
+            "A internação domiciliar leva os serviços do hospital para a casa do paciente. Com uma estrutura de enfermagem disponível desde um banho até 24 horas por dia, junto com uma equipe multidisciplinar, essa modalidade de atendimento oferece, além do cuidado assistencial, atividades sociais e de lazer, dentro do que o quadro do paciente permite.",
+            "A Home & Health Care avalia o paciente, elabora o plano de atendimento respeitando as necessidades únicas e estilo de vida da família e de cada indivíduo, indicando profissionais treinados que cuidam do controle de medicamentos, higiene, curativo, alimentação e todas as necessidades envolvidas na rotina do paciente.",
+            "Adicionalmente, a equipe coordena os serviços com os médicos, hospitais, clínicas e laboratórios e monitora o paciente para garantir sua saúde",
+            "Nossas equipes são formadas por enfermeiro responsável técnico, técnicos e auxiliares de enfermagem, fisioterapeutas, fonoaudiólogos, psicólogos e cuidadores de idosos. Todos têm o direcionamento de seguir o protocolo exigido pelo médico, pelo tempo que o mesmo necessitar.",
+            "A internação domiciliar respeita toda a legislação vigente e garante que particularidades, como o uso de medicamentos restritos, sejam atendidas"
         ],
         "uls": [
             {
-                "id": "",
+                "id": "Beneficios",
                 "lis": [
-                    "Doença de Alzheimer",
-                    "Distrofia Muscular de Duchenne e Distrofia Muscular de Becker",
-                    "Distrofia Muscular;",
-                    "Esclerose Lateral Amiotrófica (ELA);",
-                    "Esclerose Múltipla;",
-                    "Doença de Parkinson;",
-                    "Diabetes",
-                    "Hipertensão",
-                    "Câncer"
+                    "Atendimento Personalizado",
+                    "Continuidade do tratamento hospitalar, trazendo pessoas especializadas do hospital para a casa do paciente",   
+                    "Tranquilidade do paciente por estar perto de seus familiares",                  
+                    "Redução do stress relacionado à tensão e ao desconforto do ambiente hospitalar",                
+                    "Menor exposição do paciente à infecção hospitalar",                  
+                    "Redução de intercorrências como úlcera por pressão (lesões na pele), desnutrição e quedas"             
                 ]
             }
-            
-            
         ]
     }
     

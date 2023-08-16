@@ -1,0 +1,28 @@
+[
+    {
+        "id":0,
+        "img":"/testimonials/img1.png",
+        "name":"Isabela Lima",
+        "text":"Equipe fora de série! Fui surpreendido positivamente. Quando precisei de atendimento de emergência, eles agiram rápido e com muita eficiência. A abordagem personalizada deles fez toda a diferença. Parabéns pela dedicação!"
+    },
+    {
+        "id":1,
+        "img":"/testimonials/img2.png",
+        "name":"Carlos Oliveira",
+        "text":"Profissionais excepcionais! Na hora do sufoco, vieram ao meu resgate de forma incrível. A atenção genuína que eles dão aos detalhes mostrou que realmente se importam. Estou realmente impressionada e agradecida pelo comprometimento demonstrado."
+    },
+    {
+        "id":2,
+        "img":"/testimonials/img3.png",
+        "name":"Maria Santos",
+        "text":"Recomendo de olhos fechados! Durante um momento de urgência, eles se mostraram extremamente ágeis e prestativos. Além disso, a maneira como transformaram minhas ideias em realidade revela sua paixão pelo que fazem."
+
+    },
+    {
+        "id":3,
+        "img":"/testimonials/img3.png",
+        "name":"Ana Rodrigues",
+        "text":"Não tenho palavras para descrever o quanto estou feliz com o serviço. A equipe é simplesmente incrível. No meio da correria, eles me atenderam prontamente, mostrando sua dedicação e atenção aos detalhes."
+    }
+
+]

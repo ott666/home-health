@@ -1,0 +1,26 @@
+[
+    {
+        "id":"0",
+        "title":"O que é o Home Care?",
+        "text":"Home Health Care é o termo em inglês para a assistência médica e cuidados domiciliar. Visa permitir os mesmos cuidados de um hospital dentro da residência do paciente. Dentro de um modelo de Home Care existem inúmeras formas de atendimento, tais como; Internação Domiciliar, cuidadores de idosos, enfermagem domiciliar, fisioterapia, fonoaudiologia, nutricionista ou aplicação de medicação via endovenosa (ou intramuscular); consultas médicas, monitoramento e atendimentos de enfermagem, banhos e curativos diversos sem que o paciente tenha que ir até o hospital para ter esse cuidado. É um atendimento prestado por profissionais da área da saúde seja temporário ou contínuo."
+
+    },
+    {
+        "id":"1",
+        "title":"Quais são aos cuidados para o atendimento domiciliar na pandemia?",
+        "text":"Temos o protocolo de combate ao covid19 reforçando a higienização. O profissional encaminhado ao atendimento deverá levar a roupa para se trocar na residência do paciente após higienização, deixando roupas e calçados que vieram da rua armazenados. Controle de sintomas, uso de máscara e álcool gel são imprescindíveis. Seguimos rigorosamente o calendário de vacinação para que todos os profissionais possam atender com segurança. Entre em contato e faça seu orçamento."
+
+    },
+    {
+        "id":"2",
+        "title":"Os serviços são acessíveis 24 horas por dia 7 dias da semana?",
+        "text":"Sim, temos um serviço personalizado de acordo com a necessidade de cada paciente e família. Atendemos 24 horas por dia, 7 dias da semana, com cargas horárias especiais como 4h, 6h e 8h ou apenas visitas para banhos, medicações, curativos, fisioterapias etc. Entre em contato e faça seu orçamento personalizado."
+
+    },
+    {
+        "id":"3",
+        "title":"Quanto custa o atendimento domiciliar?",
+        "text":"Os valores são calculados de acordo com a complexidade do paciente, carga horária e dias que suprem a necessidade da família. Entre em contato e faça um orçamento personalizado."
+
+    }
+]
